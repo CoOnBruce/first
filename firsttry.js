@@ -9,3 +9,6 @@ function b(){
 function c(){
 	console.log(4);
 }
+function fourth(){
+	this is the fourth branch
+}
