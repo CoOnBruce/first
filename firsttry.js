@@ -6,3 +6,6 @@ function a(){
 function b(){
 	alert(2)
 }
+function c(){
+	console.log(4);
+}
